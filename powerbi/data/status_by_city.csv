@@ -1,0 +1,376 @@
+city,status,property_count
+,for_sale,3
+Aguila,for_sale,9
+Aguila,sold,1
+Ajo,for_sale,2
+Ajo,sold,1
+Alpine,for_sale,12
+Amado,for_sale,6
+Amado,sold,2
+Anthem,for_sale,64
+Anthem,sold,65
+Apache Junction,for_sale,184
+Apache Junction,sold,127
+Arivaca,for_sale,5
+Arivaca,sold,5
+Arizona City,for_sale,164
+Arizona City,sold,76
+Arlington,for_sale,1
+Arlington,sold,3
+Ash Fork,for_sale,33
+Ash Fork,sold,12
+Avondale,for_sale,138
+Avondale,sold,199
+Bellemont,for_sale,6
+Bellemont,sold,14
+Benson,for_sale,42
+Benson,sold,24
+Bisbee,for_sale,23
+Bisbee,sold,13
+Black Canyon City,for_sale,13
+Black Canyon City,sold,10
+Blue,for_sale,1
+Bouse,for_sale,15
+Bouse,sold,7
+Bowie,sold,1
+Brenda,for_sale,1
+Buckeye,for_sale,570
+Buckeye,sold,631
+Bullhead,sold,1
+Bullhead City,for_sale,464
+Bullhead City,sold,330
+Camp Verde,for_sale,50
+Camp Verde,sold,9
+Carefree,for_sale,42
+Carefree,sold,4
+Casa Grande,for_sale,458
+Casa Grande,sold,587
+Catalina,sold,1
+Cave Creek,for_sale,130
+Cave Creek,sold,94
+Chandler,for_sale,600
+Chandler,sold,1226
+Chino Valley,for_sale,124
+Chino Valley,sold,33
+Chloride,for_sale,2
+Clarkdale,for_sale,18
+Clarkdale,sold,14
+Claypool,for_sale,1
+Clifton,for_sale,2
+Cochise,for_sale,11
+Cochise,sold,5
+Colorado City,for_sale,1
+Colorado City,sold,1
+Concho,for_sale,10
+Congress,for_sale,20
+Congress,sold,7
+Coolidge,for_sale,212
+Coolidge,sold,191
+Cordes Lakes,for_sale,2
+Cornville,for_sale,29
+Cornville,sold,15
+Corona de Tucson,for_sale,4
+Corona de Tucson,sold,11
+Cottonwood,for_sale,67
+Cottonwood,sold,38
+Crown King,for_sale,8
+Crown King,sold,3
+Desert Hills,for_sale,1
+Desert Hills,sold,1
+Dewey,for_sale,6
+Dewey,sold,1
+Dewey Humboldt,for_sale,89
+Dewey Humboldt,sold,20
+Dolan Springs,for_sale,32
+Dolan Springs,sold,6
+Double Adobe,for_sale,1
+Douglas,for_sale,33
+Douglas,sold,10
+Dragoon,for_sale,1
+Dudleyville,for_sale,2
+Duncan,for_sale,4
+Eagar,for_sale,13
+Ehrenberg,for_sale,1
+Ehrenberg,sold,1
+El Mirage,for_sale,59
+El Mirage,sold,110
+Elfrida,for_sale,8
+Elfrida,sold,1
+Elgin,for_sale,8
+Elgin,sold,6
+Eloy,for_sale,88
+Eloy,sold,98
+Flagstaff,for_sale,250
+Flagstaff,sold,175
+Florence,for_sale,229
+Florence,sold,226
+Forest Lakes,for_sale,8
+Forest Lakes,sold,2
+Fort McDowell,for_sale,1
+Fort McDowell,sold,3
+Fort Mohave,for_sale,158
+Fort Mohave,sold,100
+Fort Thomas,for_sale,3
+Fountain Hills,for_sale,167
+Fountain Hills,sold,188
+Fredonia,for_sale,3
+Gila Bend,sold,3
+Gilbert,for_sale,565
+Gilbert,sold,805
+Glendale,for_sale,564
+Glendale,sold,792
+Globe,for_sale,48
+Globe,sold,12
+Gold Canyon,for_sale,125
+Gold Canyon,sold,45
+Golden Valley,for_sale,75
+Golden Valley,sold,34
+Goodyear,for_sale,452
+Goodyear,sold,443
+Green Valley,for_sale,290
+Green Valley,sold,547
+Greenehaven,for_sale,3
+Greer,for_sale,10
+Guadalupe,sold,2
+Hackberry,for_sale,1
+Happy Jack,for_sale,14
+Happy Jack,sold,3
+Hayden,sold,1
+Heber,for_sale,11
+Heber,sold,1
+Hereford,for_sale,49
+Hereford,sold,43
+Holbrook,for_sale,10
+Huachuca City,for_sale,20
+Huachuca City,sold,12
+Humboldt,for_sale,1
+Humboldt,sold,1
+Jerome,for_sale,1
+Jerome,sold,4
+Joseph City,for_sale,5
+Kearny,for_sale,10
+Kearny,sold,2
+Kingman,for_sale,339
+Kingman,sold,164
+Kirkland,for_sale,9
+Kirkland,sold,5
+Kohls Ranch,sold,1
+Lake Havasu,for_sale,7
+Lake Havasu,sold,7
+Lake Havasu City,for_sale,556
+Lake Havasu City,sold,447
+Lakeside,for_sale,36
+Lakeside,sold,3
+Laveen,for_sale,174
+Laveen,sold,160
+Litchfield Park,for_sale,140
+Litchfield Park,sold,149
+Littlefield,for_sale,19
+Mammoth,for_sale,1
+Mammoth,sold,2
+Marana,for_sale,412
+Marana,sold,366
+Maricopa,for_sale,658
+Maricopa,sold,692
+Mayer,for_sale,51
+Mayer,sold,24
+McNeal,for_sale,3
+Meadview,for_sale,29
+Meadview,sold,6
+Mesa,for_sale,1422
+Mesa,sold,1474
+Miami,for_sale,14
+Miami,sold,3
+Mohave Valley,for_sale,108
+Mohave Valley,sold,43
+Mormon Lake,for_sale,1
+Morristown,for_sale,36
+Morristown,sold,24
+Mount Lemmon,for_sale,4
+Mount Lemmon,sold,3
+Munds Park,for_sale,31
+Munds Park,sold,7
+Naco,for_sale,1
+New River,for_sale,34
+New River,sold,17
+Nogales,for_sale,42
+Nogales,sold,28
+Nutrioso,for_sale,2
+Oatman,for_sale,1
+Oracle,for_sale,33
+Oracle,sold,33
+Oro Valley,for_sale,171
+Oro Valley,sold,340
+Overgaard,for_sale,55
+Overgaard,sold,8
+Page,for_sale,48
+Palo Verde,sold,1
+Paradise Valley,for_sale,156
+Paradise Valley,sold,99
+Parker,for_sale,46
+Parker,sold,23
+Parks,for_sale,3
+Parks,sold,3
+Patagonia,for_sale,5
+Patagonia,sold,12
+Paulden,for_sale,31
+Paulden,sold,16
+Payson,for_sale,187
+Payson,sold,89
+Pearce,for_sale,21
+Pearce,sold,8
+Peeples Valley,for_sale,8
+Peeples Valley,sold,1
+Peoria,for_sale,542
+Peoria,sold,687
+Phoenix,for_sale,2918
+Phoenix,sold,4711
+Picacho,for_sale,1
+Picacho,sold,1
+Pima,for_sale,13
+Pine,for_sale,36
+Pine,sold,2
+Pinedale,for_sale,10
+Pinetop,for_sale,53
+Pinetop,sold,8
+Pinetop Lakeside,for_sale,1
+Pirtleville,for_sale,1
+Pirtleville,sold,1
+Portal,for_sale,4
+Prescott,for_sale,420
+Prescott,sold,351
+Prescott Valley,for_sale,263
+Prescott Valley,sold,226
+Quartzsite,for_sale,10
+Quartzsite,sold,1
+Queen Creek,for_sale,414
+Queen Creek,sold,423
+Queen Valley,for_sale,7
+Queen Valley,sold,3
+Red Rock,for_sale,17
+Red Rock,sold,15
+Rimrock,for_sale,34
+Rimrock,sold,7
+Rio Rico,for_sale,76
+Rio Rico,sold,68
+Rio Verde,for_sale,51
+Rio Verde,sold,32
+Roll,for_sale,1
+Roosevelt,for_sale,3
+Roosevelt,sold,4
+Saddlebrooke,for_sale,38
+Saddlebrooke,sold,60
+Safford,for_sale,38
+Safford,sold,6
+Sahuarita,for_sale,199
+Sahuarita,sold,311
+Saint David,for_sale,23
+Saint David,sold,2
+Saint Johns,for_sale,9
+Salome,for_sale,17
+Salome,sold,3
+San Luis,for_sale,24
+San Luis,sold,20
+San Manuel,for_sale,11
+San Manuel,sold,10
+San Simon,for_sale,5
+San Tan Valley,for_sale,347
+San Tan Valley,sold,688
+Scottsdale,for_sale,1639
+Scottsdale,sold,1438
+Sedona,for_sale,100
+Sedona,sold,38
+Seligman,for_sale,28
+Seligman,sold,3
+Show Low,for_sale,115
+Show Low,sold,7
+Sierra Vista,for_sale,207
+Sierra Vista,sold,126
+Skull Valley,for_sale,2
+Skull Valley,sold,2
+Snowflake,for_sale,33
+Snowflake,sold,1
+Solomon,for_sale,1
+Solomon,sold,2
+Somerton,for_sale,22
+Somerton,sold,32
+Sonoita,for_sale,6
+Sonoita,sold,2
+Spring Valley,sold,1
+Springerville,for_sale,10
+Springerville,sold,1
+Stanfield,for_sale,3
+Stanfield,sold,2
+Star Valley,for_sale,10
+Star Valley,sold,6
+Strawberry,for_sale,14
+Sun City,for_sale,369
+Sun City,sold,530
+Sun City West,for_sale,219
+Sun City West,sold,392
+Sun Lakes,for_sale,116
+Sun Lakes,sold,207
+Superior,for_sale,16
+Superior,sold,10
+Surprise,for_sale,656
+Surprise,sold,764
+Tacna,for_sale,1
+Taylor,for_sale,15
+Tempe,for_sale,290
+Tempe,sold,612
+Thatcher,for_sale,7
+Thatcher,sold,3
+Tolleson,for_sale,73
+Tolleson,sold,95
+Toltec,for_sale,1
+Toltec,sold,1
+Tombstone,for_sale,13
+Tombstone,sold,4
+Tonopah,for_sale,39
+Tonopah,sold,53
+Tonto Basin,for_sale,18
+Tonto Basin,sold,18
+Topock Golden Shores,for_sale,14
+Topock Golden Shores,sold,7
+Tubac,for_sale,48
+Tubac,sold,39
+Tucson,for_sale,2476
+Tucson,sold,5586
+Tumacacori,for_sale,2
+Vail,for_sale,229
+Vail,sold,317
+Vernon,for_sale,22
+Vernon,sold,1
+Waddell,for_sale,47
+Waddell,sold,45
+Wagoner,for_sale,1
+Wellton,for_sale,45
+Wellton,sold,9
+Wenden,for_sale,2
+Whetstone,for_sale,1
+White Hills,for_sale,3
+White Hills,sold,1
+Wickenburg,for_sale,94
+Wickenburg,sold,26
+Wilhoit,for_sale,2
+Wilhoit,sold,1
+Willcox,for_sale,33
+Willcox,sold,7
+Williams,for_sale,52
+Williams,sold,29
+Winkelman,for_sale,2
+Winkelman,sold,1
+Winslow,for_sale,27
+Winslow,sold,6
+Wittmann,for_sale,52
+Wittmann,sold,16
+Yarnell,for_sale,13
+Yarnell,sold,3
+Young,for_sale,5
+Young,sold,1
+Youngtown,for_sale,14
+Youngtown,sold,33
+Yucca,for_sale,14
+Yucca,sold,3
+Yuma,for_sale,439
+Yuma,sold,682

@@ -1,0 +1,509 @@
+city,price_category,property_count
+,Budget,1
+,Luxury,2
+Aguila,Luxury,3
+Aguila,Mid-Range,7
+Ajo,Budget,3
+Alpine,Budget,2
+Alpine,Luxury,3
+Alpine,Mid-Range,7
+Amado,Budget,4
+Amado,Luxury,3
+Amado,Mid-Range,1
+Anthem,Luxury,53
+Anthem,Mid-Range,76
+Apache Junction,Budget,114
+Apache Junction,Luxury,39
+Apache Junction,Mid-Range,158
+Arivaca,Budget,4
+Arivaca,Luxury,4
+Arivaca,Mid-Range,2
+Arizona City,Budget,167
+Arizona City,Mid-Range,73
+Arlington,Budget,2
+Arlington,Mid-Range,2
+Ash Fork,Budget,28
+Ash Fork,Mid-Range,17
+Avondale,Budget,17
+Avondale,Luxury,18
+Avondale,Mid-Range,302
+Bellemont,Luxury,4
+Bellemont,Mid-Range,16
+Benson,Budget,47
+Benson,Luxury,4
+Benson,Mid-Range,15
+Bisbee,Budget,27
+Bisbee,Luxury,3
+Bisbee,Mid-Range,6
+Black Canyon City,Budget,12
+Black Canyon City,Luxury,3
+Black Canyon City,Mid-Range,8
+Blue,Luxury,1
+Bouse,Budget,20
+Bouse,Mid-Range,2
+Bowie,Budget,1
+Brenda,Budget,1
+Buckeye,Budget,33
+Buckeye,Luxury,165
+Buckeye,Mid-Range,1003
+Bullhead,Budget,1
+Bullhead City,Budget,458
+Bullhead City,Luxury,25
+Bullhead City,Mid-Range,311
+Camp Verde,Budget,29
+Camp Verde,Luxury,14
+Camp Verde,Mid-Range,16
+Carefree,Budget,3
+Carefree,Luxury,36
+Carefree,Mid-Range,7
+Casa Grande,Budget,231
+Casa Grande,Luxury,39
+Casa Grande,Mid-Range,775
+Catalina,Mid-Range,1
+Cave Creek,Budget,1
+Cave Creek,Luxury,177
+Cave Creek,Mid-Range,46
+Chandler,Budget,90
+Chandler,Luxury,608
+Chandler,Mid-Range,1128
+Chino Valley,Budget,41
+Chino Valley,Luxury,40
+Chino Valley,Mid-Range,76
+Chloride,Budget,1
+Chloride,Luxury,1
+Clarkdale,Budget,5
+Clarkdale,Luxury,8
+Clarkdale,Mid-Range,19
+Claypool,Mid-Range,1
+Clifton,Budget,2
+Cochise,Budget,4
+Cochise,Luxury,4
+Cochise,Mid-Range,8
+Colorado City,Mid-Range,2
+Concho,Budget,6
+Concho,Luxury,1
+Concho,Mid-Range,3
+Congress,Budget,14
+Congress,Luxury,3
+Congress,Mid-Range,10
+Coolidge,Budget,189
+Coolidge,Luxury,6
+Coolidge,Mid-Range,208
+Cordes Lakes,Budget,1
+Cordes Lakes,Mid-Range,1
+Cornville,Budget,7
+Cornville,Luxury,11
+Cornville,Mid-Range,26
+Corona de Tucson,Budget,3
+Corona de Tucson,Luxury,3
+Corona de Tucson,Mid-Range,9
+Cottonwood,Budget,23
+Cottonwood,Luxury,12
+Cottonwood,Mid-Range,70
+Crown King,Budget,5
+Crown King,Mid-Range,6
+Desert Hills,Luxury,2
+Dewey,Budget,2
+Dewey,Luxury,2
+Dewey,Mid-Range,3
+Dewey Humboldt,Budget,15
+Dewey Humboldt,Luxury,18
+Dewey Humboldt,Mid-Range,76
+Dolan Springs,Budget,37
+Dolan Springs,Mid-Range,1
+Double Adobe,Mid-Range,1
+Douglas,Budget,36
+Douglas,Luxury,2
+Douglas,Mid-Range,5
+Dragoon,Budget,1
+Dudleyville,Budget,2
+Duncan,Budget,4
+Eagar,Luxury,4
+Eagar,Mid-Range,9
+Ehrenberg,Budget,2
+El Mirage,Budget,13
+El Mirage,Luxury,1
+El Mirage,Mid-Range,155
+Elfrida,Budget,6
+Elfrida,Luxury,1
+Elfrida,Mid-Range,2
+Elgin,Budget,2
+Elgin,Luxury,10
+Elgin,Mid-Range,2
+Eloy,Budget,125
+Eloy,Luxury,5
+Eloy,Mid-Range,56
+Flagstaff,Budget,21
+Flagstaff,Luxury,224
+Flagstaff,Mid-Range,180
+Florence,Budget,56
+Florence,Luxury,5
+Florence,Mid-Range,394
+Forest Lakes,Luxury,6
+Forest Lakes,Mid-Range,4
+Fort McDowell,Luxury,4
+Fort Mohave,Budget,107
+Fort Mohave,Luxury,12
+Fort Mohave,Mid-Range,139
+Fort Thomas,Budget,1
+Fort Thomas,Luxury,1
+Fort Thomas,Mid-Range,1
+Fountain Hills,Budget,27
+Fountain Hills,Luxury,208
+Fountain Hills,Mid-Range,120
+Fredonia,Budget,2
+Fredonia,Luxury,1
+Gila Bend,Budget,2
+Gila Bend,Mid-Range,1
+Gilbert,Budget,12
+Gilbert,Luxury,626
+Gilbert,Mid-Range,732
+Glendale,Budget,169
+Glendale,Luxury,211
+Glendale,Mid-Range,976
+Globe,Budget,48
+Globe,Luxury,3
+Globe,Mid-Range,9
+Gold Canyon,Budget,3
+Gold Canyon,Luxury,84
+Gold Canyon,Mid-Range,83
+Golden Valley,Budget,94
+Golden Valley,Luxury,1
+Golden Valley,Mid-Range,14
+Goodyear,Budget,4
+Goodyear,Luxury,206
+Goodyear,Mid-Range,685
+Green Valley,Budget,429
+Green Valley,Luxury,24
+Green Valley,Mid-Range,384
+Greenehaven,Mid-Range,3
+Greer,Budget,1
+Greer,Luxury,8
+Greer,Mid-Range,1
+Guadalupe,Budget,2
+Hackberry,Budget,1
+Happy Jack,Budget,1
+Happy Jack,Luxury,9
+Happy Jack,Mid-Range,7
+Hayden,Budget,1
+Heber,Budget,1
+Heber,Luxury,7
+Heber,Mid-Range,4
+Hereford,Budget,48
+Hereford,Luxury,8
+Hereford,Mid-Range,36
+Holbrook,Budget,7
+Holbrook,Luxury,1
+Holbrook,Mid-Range,2
+Huachuca City,Budget,28
+Huachuca City,Mid-Range,4
+Humboldt,Mid-Range,2
+Jerome,Budget,1
+Jerome,Luxury,2
+Jerome,Mid-Range,2
+Joseph City,Budget,5
+Kearny,Budget,12
+Kingman,Budget,311
+Kingman,Luxury,21
+Kingman,Mid-Range,171
+Kirkland,Budget,8
+Kirkland,Luxury,3
+Kirkland,Mid-Range,3
+Kohls Ranch,Mid-Range,1
+Lake Havasu,Budget,1
+Lake Havasu,Luxury,7
+Lake Havasu,Mid-Range,6
+Lake Havasu City,Budget,119
+Lake Havasu City,Luxury,347
+Lake Havasu City,Mid-Range,537
+Lakeside,Budget,7
+Lakeside,Luxury,7
+Lakeside,Mid-Range,25
+Laveen,Luxury,36
+Laveen,Mid-Range,298
+Litchfield Park,Budget,6
+Litchfield Park,Luxury,123
+Litchfield Park,Mid-Range,160
+Littlefield,Budget,7
+Littlefield,Mid-Range,12
+Mammoth,Budget,3
+Marana,Budget,88
+Marana,Luxury,113
+Marana,Mid-Range,577
+Maricopa,Budget,30
+Maricopa,Luxury,16
+Maricopa,Mid-Range,1304
+Mayer,Budget,50
+Mayer,Luxury,2
+Mayer,Mid-Range,23
+McNeal,Budget,3
+Meadview,Budget,31
+Meadview,Mid-Range,4
+Mesa,Budget,654
+Mesa,Luxury,483
+Mesa,Mid-Range,1759
+Miami,Budget,12
+Miami,Luxury,1
+Miami,Mid-Range,4
+Mohave Valley,Budget,82
+Mohave Valley,Luxury,7
+Mohave Valley,Mid-Range,62
+Mormon Lake,Mid-Range,1
+Morristown,Budget,44
+Morristown,Luxury,4
+Morristown,Mid-Range,12
+Mount Lemmon,Budget,2
+Mount Lemmon,Luxury,4
+Mount Lemmon,Mid-Range,1
+Munds Park,Budget,5
+Munds Park,Luxury,22
+Munds Park,Mid-Range,11
+Naco,Budget,1
+New River,Luxury,35
+New River,Mid-Range,16
+Nogales,Budget,49
+Nogales,Luxury,8
+Nogales,Mid-Range,13
+Nutrioso,Luxury,1
+Nutrioso,Mid-Range,1
+Oatman,Luxury,1
+Oracle,Budget,16
+Oracle,Luxury,23
+Oracle,Mid-Range,27
+Oro Valley,Budget,12
+Oro Valley,Luxury,170
+Oro Valley,Mid-Range,329
+Overgaard,Budget,21
+Overgaard,Luxury,17
+Overgaard,Mid-Range,25
+Page,Budget,15
+Page,Luxury,6
+Page,Mid-Range,27
+Palo Verde,Budget,1
+Paradise Valley,Luxury,239
+Paradise Valley,Mid-Range,16
+Parker,Budget,43
+Parker,Luxury,12
+Parker,Mid-Range,14
+Parks,Budget,1
+Parks,Luxury,2
+Parks,Mid-Range,3
+Patagonia,Budget,2
+Patagonia,Luxury,5
+Patagonia,Mid-Range,10
+Paulden,Budget,14
+Paulden,Luxury,3
+Paulden,Mid-Range,30
+Payson,Budget,56
+Payson,Luxury,90
+Payson,Mid-Range,130
+Pearce,Budget,24
+Pearce,Luxury,2
+Pearce,Mid-Range,3
+Peeples Valley,Budget,7
+Peeples Valley,Mid-Range,2
+Peoria,Budget,128
+Peoria,Luxury,350
+Peoria,Mid-Range,751
+Phoenix,Budget,1199
+Phoenix,Luxury,1816
+Phoenix,Mid-Range,4614
+Picacho,Mid-Range,2
+Pima,Budget,7
+Pima,Mid-Range,6
+Pine,Budget,2
+Pine,Luxury,9
+Pine,Mid-Range,27
+Pinedale,Budget,1
+Pinedale,Luxury,5
+Pinedale,Mid-Range,4
+Pinetop,Budget,5
+Pinetop,Luxury,23
+Pinetop,Mid-Range,33
+Pinetop Lakeside,Mid-Range,1
+Pirtleville,Budget,2
+Portal,Budget,2
+Portal,Mid-Range,2
+Prescott,Budget,68
+Prescott,Luxury,405
+Prescott,Mid-Range,298
+Prescott Valley,Budget,60
+Prescott Valley,Luxury,137
+Prescott Valley,Mid-Range,292
+Quartzsite,Budget,9
+Quartzsite,Mid-Range,2
+Queen Creek,Budget,3
+Queen Creek,Luxury,430
+Queen Creek,Mid-Range,404
+Queen Valley,Budget,6
+Queen Valley,Luxury,3
+Queen Valley,Mid-Range,1
+Red Rock,Budget,12
+Red Rock,Mid-Range,20
+Rimrock,Budget,9
+Rimrock,Luxury,5
+Rimrock,Mid-Range,27
+Rio Rico,Budget,96
+Rio Rico,Luxury,3
+Rio Rico,Mid-Range,45
+Rio Verde,Budget,1
+Rio Verde,Luxury,62
+Rio Verde,Mid-Range,20
+Roll,Budget,1
+Roosevelt,Budget,2
+Roosevelt,Mid-Range,5
+Saddlebrooke,Budget,2
+Saddlebrooke,Luxury,19
+Saddlebrooke,Mid-Range,77
+Safford,Budget,31
+Safford,Luxury,2
+Safford,Mid-Range,11
+Sahuarita,Budget,116
+Sahuarita,Luxury,19
+Sahuarita,Mid-Range,375
+Saint David,Budget,5
+Saint David,Luxury,9
+Saint David,Mid-Range,11
+Saint Johns,Budget,6
+Saint Johns,Mid-Range,3
+Salome,Budget,18
+Salome,Luxury,1
+Salome,Mid-Range,1
+San Luis,Budget,41
+San Luis,Mid-Range,3
+San Manuel,Budget,21
+San Simon,Luxury,1
+San Simon,Mid-Range,4
+San Tan Valley,Budget,18
+San Tan Valley,Luxury,101
+San Tan Valley,Mid-Range,916
+Scottsdale,Budget,90
+Scottsdale,Luxury,2250
+Scottsdale,Mid-Range,737
+Sedona,Budget,4
+Sedona,Luxury,106
+Sedona,Mid-Range,28
+Seligman,Budget,17
+Seligman,Luxury,3
+Seligman,Mid-Range,11
+Show Low,Budget,34
+Show Low,Luxury,40
+Show Low,Mid-Range,48
+Sierra Vista,Budget,226
+Sierra Vista,Luxury,1
+Sierra Vista,Mid-Range,106
+Skull Valley,Luxury,2
+Skull Valley,Mid-Range,2
+Snowflake,Budget,10
+Snowflake,Luxury,6
+Snowflake,Mid-Range,18
+Solomon,Budget,3
+Somerton,Budget,31
+Somerton,Luxury,2
+Somerton,Mid-Range,21
+Sonoita,Luxury,4
+Sonoita,Mid-Range,4
+Spring Valley,Mid-Range,1
+Springerville,Budget,4
+Springerville,Luxury,1
+Springerville,Mid-Range,6
+Stanfield,Budget,4
+Stanfield,Luxury,1
+Star Valley,Budget,10
+Star Valley,Luxury,4
+Star Valley,Mid-Range,2
+Strawberry,Budget,2
+Strawberry,Luxury,5
+Strawberry,Mid-Range,7
+Sun City,Budget,427
+Sun City,Luxury,11
+Sun City,Mid-Range,461
+Sun City West,Budget,80
+Sun City West,Luxury,69
+Sun City West,Mid-Range,462
+Sun Lakes,Budget,40
+Sun Lakes,Luxury,64
+Sun Lakes,Mid-Range,219
+Superior,Budget,19
+Superior,Mid-Range,7
+Surprise,Budget,102
+Surprise,Luxury,187
+Surprise,Mid-Range,1131
+Tacna,Budget,1
+Taylor,Budget,3
+Taylor,Luxury,6
+Taylor,Mid-Range,6
+Tempe,Budget,152
+Tempe,Luxury,177
+Tempe,Mid-Range,573
+Thatcher,Budget,4
+Thatcher,Mid-Range,6
+Tolleson,Budget,3
+Tolleson,Luxury,6
+Tolleson,Mid-Range,159
+Toltec,Mid-Range,2
+Tombstone,Budget,11
+Tombstone,Luxury,2
+Tombstone,Mid-Range,4
+Tonopah,Budget,28
+Tonopah,Luxury,1
+Tonopah,Mid-Range,63
+Tonto Basin,Budget,17
+Tonto Basin,Luxury,3
+Tonto Basin,Mid-Range,16
+Topock Golden Shores,Budget,19
+Topock Golden Shores,Mid-Range,2
+Tubac,Budget,20
+Tubac,Luxury,29
+Tubac,Mid-Range,38
+Tucson,Budget,3466
+Tucson,Luxury,828
+Tucson,Mid-Range,3768
+Tumacacori,Budget,1
+Tumacacori,Mid-Range,1
+Vail,Budget,75
+Vail,Luxury,53
+Vail,Mid-Range,418
+Vernon,Budget,3
+Vernon,Luxury,11
+Vernon,Mid-Range,9
+Waddell,Luxury,49
+Waddell,Mid-Range,43
+Wagoner,Budget,1
+Wellton,Budget,45
+Wellton,Mid-Range,9
+Wenden,Budget,2
+Whetstone,Budget,1
+White Hills,Budget,1
+White Hills,Mid-Range,3
+Wickenburg,Budget,15
+Wickenburg,Luxury,60
+Wickenburg,Mid-Range,45
+Wilhoit,Budget,3
+Willcox,Budget,37
+Willcox,Luxury,2
+Willcox,Mid-Range,1
+Williams,Budget,23
+Williams,Luxury,29
+Williams,Mid-Range,29
+Winkelman,Budget,1
+Winkelman,Luxury,2
+Winslow,Budget,27
+Winslow,Mid-Range,6
+Wittmann,Budget,7
+Wittmann,Luxury,24
+Wittmann,Mid-Range,37
+Yarnell,Budget,10
+Yarnell,Mid-Range,6
+Young,Budget,3
+Young,Luxury,2
+Young,Mid-Range,1
+Youngtown,Budget,16
+Youngtown,Luxury,3
+Youngtown,Mid-Range,28
+Yucca,Budget,11
+Yucca,Luxury,1
+Yucca,Mid-Range,5
+Yuma,Budget,757
+Yuma,Luxury,30
+Yuma,Mid-Range,334

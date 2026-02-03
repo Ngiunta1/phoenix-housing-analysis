@@ -1,8 +1,8 @@
 -- Average home price and property count by city for affordability analysis
 CREATE VIEW avg_price_by_city AS
-SELECT city, AVG(price) AS avg_price, COUNT(*) AS property_count
+SELECT city, state, AVG(price) AS avg_price, COUNT(*) AS property_count
 FROM properties
-GROUP BY city;
+GROUP BY city, state;
 
 -- Typical home features by city (beds, baths, price per sqft) to understand what you get for your money
 CREATE VIEW city_property_features AS
